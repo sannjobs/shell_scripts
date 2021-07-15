@@ -1,0 +1,6 @@
+echo -e "Displaying backslash : \\ "
+echo -e "Making sound(alert) : \a "
+echo -e "Displaying backspace : \b"
+echo -e "Displaying single quote : \' "
+echo -e "Displaying double quote : \" "
+echo -e "New Line: \n "	
